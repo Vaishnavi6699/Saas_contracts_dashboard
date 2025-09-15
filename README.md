@@ -49,13 +49,19 @@ git clone https://github.com/Vaishnavi6699/Saas_contracts_dashboard
 cd saas-dashboard
 
 2. Install Dependencies
+
 npm install
 
 3.Run server
+
 npm run dev
 
 4.output
-Navigated to local host
+
+Navigated to local host(http://localhost:5173)
+
+
+
 
 ASSUMPTIONS MADE
 
