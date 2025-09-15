@@ -11,7 +11,7 @@ FEATURES
 1. LOGIN PAGE
    - Animated diagonal gradient background with particles.  
    - Hover shimmer effect on the login button.  
-   - Validates password (`test123`) with inline error message.  
+   - Validates password (test123) with inline error message.  
    - Smooth fade-in animation for the login form.
 
 2. DASHBAORD PAGE
@@ -45,7 +45,7 @@ SETUP INSTRUCTIONS
 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/Vaishnavi6699/Saas_contracts_dashboard
 cd saas-dashboard
 
 2. Install Dependencies
